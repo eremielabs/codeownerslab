@@ -1,0 +1,7 @@
+# Default owner for all files
+* @eremieg
+
+# Specific owners for specific paths
+/src/ @eatpizzanot/python-team
+/docs/ @eremieg/docs-team
+/tests/ @eatpizzanot/test-team
