@@ -2,6 +2,6 @@
 * @eremieg
 
 # Specific owners for specific paths
-/src/ @eatpizzanot/python-team
-/docs/ @eremieg/docs-team
-/tests/ @eatpizzanot/test-team
+/src/ @eatpizzanot
+/docs/ @eremieg
+/tests/ @eatpizzanot
